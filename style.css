@@ -1,4 +1,4 @@
-
+/* Desktop version */
 .heading {
     text-align: center;
     margin-top: 40px;
@@ -61,11 +61,82 @@
 }
 
 .list {
-    margin-left: 700px;
+    margin-left: 701px;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif
 }
 
-body{
+body {
     background-color: aquamarine;
+}
+
+/* mobile version */
+
+@media only screen and (max-width:600px) {
+
+    body {
+        background-color: aquamarine;
+    }
+
+    .heading {
+        text-align: center;
+        font-size: 29px;
+        font-style: normal;
+        font-weight: 100;
+        font-family: Arial, Helvetica, sans-serif;
+        color: blue;
+    }
+
+    .input {
+        margin-top: 50px;
+        margin-left: 45px;
+        font-size: 21px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .button1 {
+        margin-top: 30px;
+        margin-left: 128px;
+        padding: 6px 8px;
+        background-color: green;
+        color: aliceblue;
+        font-size: 18px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-radius: 2px;
+        border: none;
+    }
+
+    .button1:hover {
+        background-color: dodgerblue;
+    }
+
+    .heading1 {
+        margin-left: 45px;
+        font-size: 20px;
+        font-weight: 200;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: underline;
+    }
+
+    .button2 {
+        margin-left: 50px;
+        padding: 6px 9px;
+        font-size: 15px;
+        background-color: blueviolet;
+        color: aliceblue;
+        border-radius: 2px;
+        border: none;
+    }
+
+    .button2:hover {
+        background-color: red;
+    }
+
+    .list {
+        margin-left: 50px;
+        font-size: 27px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 600;
+    }
+
 }
