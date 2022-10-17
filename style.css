@@ -27,7 +27,8 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: #d5a813;
     color: aliceblue;
-    border:none;
+    border:none
+    ;
 }
 
 .button1:hover {
