@@ -1,3 +1,4 @@
+window.alert("Hello guys , Welcome to my To-do list");
 let myForm = document.getElementById("myForm")
 let myInput = document.getElementById("myInput")
 let myList = document.getElementById("myList")
