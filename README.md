@@ -1,7 +1,6 @@
 Writing your daily tasks on a To-do  list can help you increase productivity and decrease stress. 
 To-do lists enable you to segment your goals into achievable activities and complete large projects by breaking them into smaller assignments.
 
-updating test 1
 
 checkout the live website:https://praveentej-todolist.netlify.app/
 
