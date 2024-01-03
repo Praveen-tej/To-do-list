@@ -59,7 +59,7 @@
 }
 
 .list {
-    margin-left: 601px;
+    margin-left: 600px;
     font-size: 30px;
     font-family:'Courier New', Courier, monospace
 }
@@ -75,7 +75,7 @@ body {
 
     .heading {
         text-align: center;
-        font-size: 29px;
+        font-size: 30px;
         font-style: normal;
         font-weight: 100;
         font-family: Arial, Helvetica, sans-serif;
