@@ -21,12 +21,12 @@
     margin-left: 45px;
     padding: 10px 15px;
     border-radius: 10px;
-    font-size: 23px;
+    font-size: 25px;
     font-weight: 600px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #d5a813;
     color: aliceblue;
-    border:none;
+    border: none;
 }
 
 .button1:hover {
@@ -93,7 +93,7 @@ body {
         margin-top: 36px;
         margin-left: 125px;
         padding: 6px 8px;
-        background-color: green;
+        background-color: green; 
         color: aliceblue;
         font-size: 18px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
